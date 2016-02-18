@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,300);
+.vertical-line {
+  border-left: 12px dotted black;
+  height: 900px;
+}
+
+.container {
+  font-family: "Lato";
+}
+
+.left-hand-stuff .row {
+  padding-bottom: 30px;
+  padding-right: 5px;
+}
+
+.right-hand-stuff .row {
+  padding-bottom: 30px;
+  padding-right: 5px;
+}
+
+.time-line-date {
+  background: #c62828;
+  color: white;
+  padding: 5px;
+  font-size: 10px;
+  
+  text-transform: uppercase;
+}
+
+.time-line-head {
+  background: darkred;
+  font-size: 19px;
+  color: white;
+  padding: 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.time-line-content {
+  background: red;
+  color: white;
+  padding: 8px;
+}
+
+.time-line-footer {
+  background: #b71c1c;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+.time-line-box {
+  padding: 5px;
+  -webkit-box-shadow: 2px 2px 12px 0px rgba(44, 50, 50, 0.45);
+  -moz-box-shadow: 2px 2px 12px 0px rgba(44, 50, 50, 0.45);
+  box-shadow: 2px 2px 12px 0px rgba(44, 50, 50, 0.45);
+}
+
